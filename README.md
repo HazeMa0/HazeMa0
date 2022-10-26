@@ -2,7 +2,7 @@
 
 - 🔭 I desire to create simple and user-friendly programs
 - 🔭 It's my dream to build a great program that helps people live better
-- 🌱 I’m currently learning C,ASM and C#
+- 🌱 I’m currently learning C, Python, ASM and C#
 - 📫 How to reach me: haze112358@163.com
 > 好啦上面的英语应该很蹩脚，但是我已经尽力了⊙﹏⊙∥
 > 
